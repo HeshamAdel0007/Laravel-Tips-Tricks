@@ -17,20 +17,30 @@ Here you'll find short, practical tips to help you write better, cleaner, and fa
 
 ## 🔥 What's Inside?
 
-- 🛠️ Helper Functions
-- 📚 Eloquent ORM Tips
-- 🎨 Blade Shortcuts
-- ⚡ Performance Improvements
-- 🔐 Security Best Practices
-- 🧹 Clean Architecture
-- 🧪 Testing Tips
-- 📦 Recommended Packages
+- 🛠️ **Helper Functions**
+- 📚 **Eloquent**
+- 🔄 **Query Building**
+- 🔗 **Relationships**
+- 🏗️ **Migrations**
+- 🖥️ **Views**
+- 🚀 **Routing**
+- 🛡️ **Validation**
+- 🧑‍💻 **Collections**
+- 🎨 **Blade Shortcuts**
+- 🔐 **Security Best Practices**
+- ⚡ **Performance Improvements**
+- 🧹 **Clean Architecture**
+- 📦 **Recommended Packages**
 
 <hr>
 
 ## 📌 Available Tips
 
 - [Helper Functions](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Helper)
+- [Eloquent](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent)
+- [Query Builder](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Query-Builder)
+- [Relationships](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Relationships)
+- [Migrations](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Migrations)
 
 
 <hr>
