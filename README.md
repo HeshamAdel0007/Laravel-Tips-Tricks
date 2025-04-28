@@ -28,6 +28,13 @@ Here you'll find short, practical tips to help you write better, cleaner, and fa
 
 <hr>
 
+## 📌 Available Tips
+
+- [Helper Functions](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Helper)
+
+
+<hr>
+
 ## 🤝 Contributing
 
 We love contributions from the community! ❤️  

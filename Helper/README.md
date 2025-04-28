@@ -6,7 +6,7 @@ Here you'll find useful Laravel helper functions that can make your code cleaner
 <hr>
 
 ## 📌 Available Tips
-- [Str::mask() — Hide Sensitive Information](mask.md) *([Coming soon](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/Helper/Str/mask.md))*
+- [Str::mask() — Hide Sensitive Information](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/blob/main/Helper/Str/mask.md)
 
 
 <hr>
