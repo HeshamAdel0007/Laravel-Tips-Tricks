@@ -6,7 +6,7 @@ Here you'll find useful Laravel Eloquent ORM methods and best practices to make 
 <hr>
 
 ## 📌 Available Tips
-**COMING SOON**
+- [ Eloquent `first()` and `firstOrFail()` ](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent/Tips/first-vs-firstOrFail.md)
 
 <hr>
 
