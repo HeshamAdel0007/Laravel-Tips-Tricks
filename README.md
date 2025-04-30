@@ -36,11 +36,12 @@ Here you'll find short, practical tips to help you write better, cleaner, and fa
 
 ## 📌 Available Tips
 
-- [Helper Functions](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Helper)
-- [Eloquent](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent)
+- [Helper Functions](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Helper) **[ Tips 1 ]**
+- [Eloquent](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent) **[ Tips 1 ]**
 - [Query Builder](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Query-Builder)
 - [Relationships](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Relationships)
 - [Migrations](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Migrations)
+- [Validation](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Validation) **[ Tips 1 ]**
 
 
 <hr>
