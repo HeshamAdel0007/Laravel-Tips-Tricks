@@ -7,6 +7,8 @@ Here you'll find useful Laravel Eloquent ORM methods and best practices to make 
 
 ## 📌 Available Tips
 - [ Eloquent `first()` and `firstOrFail()` ](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent/Tips/first-vs-firstOrFail.md)
+- [ Scopes ](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent/Tips/scopes.md)
+- [ Find ](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent/Tips/find.md)
 
 <hr>
 
