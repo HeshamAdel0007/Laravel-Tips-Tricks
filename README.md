@@ -37,7 +37,7 @@ Here you'll find short, practical tips to help you write better, cleaner, and fa
 ## 📌 Available Tips
 
 - [Helper Functions](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Helper) **[ Tips 1 ]**
-- [Eloquent](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent) **[ Tips 1 ]**
+- [Eloquent](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Eloquent) **[ Tips 3 ]**
 - [Query Builder](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Query-Builder)
 - [Relationships](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Relationships)
 - [Migrations](https://github.com/HeshamAdel0007/Laravel-Tips-Tricks/tree/main/Migrations)
@@ -90,3 +90,6 @@ If you find this repository helpful:
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamadel528@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/heshamadel000)
+
+
+**If you found this helpful, feel free to ⭐ the repo or contribute!**

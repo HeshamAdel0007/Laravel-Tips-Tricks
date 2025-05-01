@@ -31,3 +31,6 @@ Eloquent ORM (Object-Relational Mapping) is Laravel's built-in database query bu
 - Avoid Raw SQL: Instead of writing raw SQL queries, you can use Eloquent methods to achieve the same results in a more readable way.
 - Relationships: Eloquent allows you to easily define and manage relationships between different models.
 - Built-in Features: Features like mass assignment protection, query scopes, and accessors/mutators help streamline your workflow.
+
+
+**If you found this helpful, feel free to ⭐ the repo or contribute!**
